@@ -1,0 +1,2552 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-06-06T11:08:43Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/933074666",
+        "amenity": "fast_food",
+        "name": "Chillis Fast Food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.0880587,
+          24.8746202
+        ]
+      },
+      "id": "node/933074666"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/933074672",
+        "addr:city": "Karachi",
+        "addr:street": "Fatima Jinnah Road",
+        "amenity": "fast_food",
+        "name": "Kaybees Fast Food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.0878142,
+          24.8753422
+        ]
+      },
+      "id": "node/933074672"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/933110127",
+        "addr:city": "Karachi",
+        "addr:street": "Tipu Sultan Road",
+        "amenity": "fuel",
+        "brand": "شیل",
+        "brand:ar": "شل",
+        "brand:ur": "شیل",
+        "brand:wikidata": "Q154950",
+        "brand:wikipedia": "ur:رائل دٹچ شیل",
+        "brand:wikipedia:ar": "رويال داتش شل",
+        "brand:wikipedia:ur": "رائل دٹچ شیل",
+        "fuel:diesel": "yes",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "yes",
+        "name": "شیل",
+        "name:ar": "شل",
+        "name:en": "Shell",
+        "name:fa": "شل",
+        "name:pa": "ਸ਼ੈਲ",
+        "name:ur": "شیل",
+        "phone": "+92 (21) 111-888-222"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.0778031,
+          24.865712
+        ]
+      },
+      "id": "node/933110127"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/973776277",
+        "addr:city": "Karachi",
+        "amenity": "fuel",
+        "brand": "پاکستان اسٹیٹ آئل",
+        "brand:ar": "النفط الحكومية الباكستانية",
+        "brand:ks": "پاکستان اسٹیٹ آئل",
+        "brand:ur": "پاکستان اسٹیٹ آئل",
+        "brand:wikidata": "Q2741455",
+        "brand:wikipedia": "ur:پاکستان اسٹیٹ آئل",
+        "brand:wikipedia:ur": "پاکستان اسٹیٹ آئل",
+        "fuel:octane_91": "yes",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "yes",
+        "name": "پاکستان اسٹیٹ آئل",
+        "name:ar": "النفط الحكومية الباكستانية",
+        "name:en": "Pakistan State Oil",
+        "name:ks": "پاکستان اسٹیٹ آئل",
+        "name:pnb": "پاکستان سٹیٹ آئل",
+        "name:sd": "پاڪستان اسٽيٽ آئل",
+        "name:ur": "پاکستان اسٹیٹ آئل",
+        "short_name": "پی ایس او",
+        "short_name:ur": "پی ایس او"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.0844129,
+          24.8765375
+        ]
+      },
+      "id": "node/973776277"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3265387000",
+        "addr:city": "Karachi",
+        "addr:street": "Tipu Sultan Road",
+        "amenity": "fast_food",
+        "brand": "ڈنکن ڈونٹس",
+        "brand:ar": "دانكن دونتس",
+        "brand:ur": "ڈنکن ڈونٹس",
+        "brand:wikidata": "Q847743",
+        "brand:wikipedia": "ar:دانكن دونتس",
+        "cuisine": "donut",
+        "name": "ڈنکن ڈونٹس",
+        "name:ar": "دانكن دونتس",
+        "name:en": "Dunkin' Donuts",
+        "name:ur": "ڈنکن ڈونٹس"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.0775606,
+          24.8655472
+        ]
+      },
+      "id": "node/3265387000"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3851897414",
+        "addr:city": "Karachi",
+        "addr:street": "Din Muhammad Wafai Road",
+        "amenity": "fuel",
+        "brand": "طوطال",
+        "brand:ar": "طوطال",
+        "brand:en": "Total",
+        "brand:ur": "ٹوٹل",
+        "brand:wikidata": "Q154037",
+        "brand:wikipedia": "ar:طوطال",
+        "brand:wikipedia:ar": "طوطال",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "yes",
+        "name": "ٹوٹل",
+        "name:ar": "طوطال",
+        "name:en": "Total",
+        "name:ur": "ٹوٹل",
+        "operator": "ٹوٹل پارکو",
+        "operator:ar": "طوطال باركو",
+        "operator:en": "Total Parco",
+        "operator:ur": "ٹوٹل پارکو",
+        "operator:website": "https://www.totalparco.com.pk/",
+        "operator:wikidata": "Q85810269"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.022541,
+          24.8530825
+        ]
+      },
+      "id": "node/3851897414"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4559228193",
+        "addr:city": "Karachi",
+        "addr:street": "Shahrah e Faisal",
+        "amenity": "fuel",
+        "brand": "شیل",
+        "brand:ar": "شل",
+        "brand:en": "Shell",
+        "brand:fa": "شل",
+        "brand:ur": "شیل",
+        "brand:wikidata": "Q154950",
+        "brand:wikipedia": "ur:رائل دٹچ شیل",
+        "brand:wikipedia:ar": "رويال داتش شل",
+        "brand:wikipedia:fa": "رویال داچ شل",
+        "brand:wikipedia:ur": "رائل دٹچ شیل",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "yes",
+        "name": "Attock Petrol Pump",
+        "phone": "+92 (21) 111-888-222"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.1439626,
+          24.8870175
+        ]
+      },
+      "id": "node/4559228193"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4727921399",
+        "addr:city": "Karachi",
+        "addr:street": "Shahrah e Faisal",
+        "amenity": "fuel",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "yes",
+        "name": "Caltex Pump"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.0489059,
+          24.8580962
+        ]
+      },
+      "id": "node/4727921399"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4731137438",
+        "addr:city": "Karachi",
+        "addr:street": "Shahrah e Faisal",
+        "amenity": "fuel",
+        "brand": "پاکستان اسٹیٹ آئل",
+        "brand:ar": "النفط الحكومية الباكستانية",
+        "brand:ks": "پاکستان اسٹیٹ آئل",
+        "brand:ur": "پاکستان اسٹیٹ آئل",
+        "brand:wikidata": "Q2741455",
+        "brand:wikipedia": "ur:پاکستان اسٹیٹ آئل",
+        "brand:wikipedia:ur": "پاکستان اسٹیٹ آئل",
+        "fuel:octane_91": "yes",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "yes",
+        "name": "پاکستان اسٹیٹ آئل",
+        "name:ar": "النفط الحكومية الباكستانية",
+        "name:en": "Pakistan State Oil",
+        "name:ks": "پاکستان اسٹیٹ آئل",
+        "name:pnb": "پاکستان سٹیٹ آئل",
+        "name:sd": "پاڪستان اسٽيٽ آئل",
+        "name:ur": "پاکستان اسٹیٹ آئل",
+        "short_name": "پی ایس او",
+        "short_name:ur": "پی ایس او"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.0433194,
+          24.857058
+        ]
+      },
+      "id": "node/4731137438"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4734458522",
+        "addr:city": "Karachi",
+        "addr:street": "Shahrah e Faisal",
+        "amenity": "fuel",
+        "brand": "پاکستان اسٹیٹ آئل",
+        "brand:ar": "النفط الحكومية الباكستانية",
+        "brand:ks": "پاکستان اسٹیٹ آئل",
+        "brand:ur": "پاکستان اسٹیٹ آئل",
+        "brand:wikidata": "Q2741455",
+        "brand:wikipedia": "ur:پاکستان اسٹیٹ آئل",
+        "brand:wikipedia:ur": "پاکستان اسٹیٹ آئل",
+        "fuel:cng": "yes",
+        "fuel:octane_95": "yes",
+        "name": "پاکستان اسٹیٹ آئل",
+        "name:ar": "النفط الحكومية الباكستانية",
+        "name:en": "Pakistan State Oil",
+        "name:ks": "پاکستان اسٹیٹ آئل",
+        "name:pnb": "پاکستان سٹیٹ آئل",
+        "name:sd": "پاڪستان اسٽيٽ آئل",
+        "name:ur": "پاکستان اسٹیٹ آئل",
+        "short_name": "پی ایس او",
+        "short_name:ur": "پی ایس او"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.0802111,
+          24.8657451
+        ]
+      },
+      "id": "node/4734458522"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4737256426",
+        "addr:city": "Karachi",
+        "addr:street": "Shahrah e Faisal",
+        "amenity": "fuel",
+        "brand": "شیل",
+        "brand:ar": "شل",
+        "brand:en": "Shell",
+        "brand:fa": "شل",
+        "brand:ur": "شیل",
+        "brand:wikidata": "Q110716465",
+        "brand:wikipedia": "ur:رائل دٹچ شیل",
+        "brand:wikipedia:ar": "رويال داتش شل",
+        "brand:wikipedia:ur": "رائل دٹچ شیل",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "yes",
+        "name": "شیل",
+        "name:ar": "شل",
+        "name:en": "Shell",
+        "name:fa": "شل",
+        "name:pa": "ਸ਼ੈਲ",
+        "name:ur": "شیل",
+        "phone": "+92 (21) 111-888-222"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.1088418,
+          24.8805185
+        ]
+      },
+      "id": "node/4737256426"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4737256427",
+        "addr:city": "کراچی",
+        "addr:city:ar": "كراتشي",
+        "addr:city:en": "Karachi",
+        "addr:city:ks": "کَرٲچی",
+        "addr:city:pnb": "کراچی",
+        "addr:city:ps": "کراچۍ",
+        "addr:city:sd": "ڪراچي",
+        "addr:city:ur": "کراچی",
+        "addr:street": "Shahrah e Faisal",
+        "amenity": "fuel",
+        "name": "Bakri Petrol Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.1102746,
+          24.8807124
+        ]
+      },
+      "id": "node/4737256427"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4737256428",
+        "addr:city": "Karachi",
+        "addr:street": "Shahrah e Faisal",
+        "amenity": "fuel",
+        "brand": "طوطال",
+        "brand:ar": "طوطال",
+        "brand:en": "Total",
+        "brand:ur": "ٹوٹل",
+        "brand:wikidata": "Q154037",
+        "brand:wikipedia": "ar:طوطال",
+        "brand:wikipedia:ar": "طوطال",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "yes",
+        "name": "ٹوٹل",
+        "name:ar": "طوطال",
+        "name:en": "Total",
+        "name:ur": "ٹوٹل",
+        "operator": "ٹوٹل پارکو",
+        "operator:ar": "طوطال باركو",
+        "operator:en": "Total Parco",
+        "operator:ur": "ٹوٹل پارکو",
+        "operator:website": "https://www.totalparco.com.pk/",
+        "operator:wikidata": "Q85810269"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.1107039,
+          24.8809825
+        ]
+      },
+      "id": "node/4737256428"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4737259922",
+        "addr:city": "Karachi",
+        "addr:street": "Shahrah e Faisal",
+        "amenity": "fuel",
+        "brand": "پاکستان اسٹیٹ آئل",
+        "brand:ar": "النفط الحكومية الباكستانية",
+        "brand:ks": "پاکستان اسٹیٹ آئل",
+        "brand:ur": "پاکستان اسٹیٹ آئل",
+        "brand:wikidata": "Q2741455",
+        "brand:wikipedia": "ur:پاکستان اسٹیٹ آئل",
+        "brand:wikipedia:ur": "پاکستان اسٹیٹ آئل",
+        "fuel:octane_91": "yes",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "yes",
+        "name": "پاکستان اسٹیٹ آئل",
+        "name:ar": "النفط الحكومية الباكستانية",
+        "name:en": "Pakistan State Oil",
+        "name:ks": "پاکستان اسٹیٹ آئل",
+        "name:pnb": "پاکستان سٹیٹ آئل",
+        "name:sd": "پاڪستان اسٽيٽ آئل",
+        "name:ur": "پاکستان اسٹیٹ آئل",
+        "short_name": "پی ایس او",
+        "short_name:ur": "پی ایس او"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.1129113,
+          24.8822543
+        ]
+      },
+      "id": "node/4737259922"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4737259925",
+        "addr:city": "کراچی",
+        "addr:city:ar": "كراتشي",
+        "addr:city:en": "Karachi",
+        "addr:city:ks": "کَرٲچی",
+        "addr:city:pnb": "کراچی",
+        "addr:city:ps": "کراچۍ",
+        "addr:city:sd": "ڪراچي",
+        "addr:city:ur": "کراچی",
+        "addr:street": "Shahrah e Faisal",
+        "amenity": "fuel",
+        "name": "Hascol 1 Petrol Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.1140279,
+          24.8828314
+        ]
+      },
+      "id": "node/4737259925"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4737583659",
+        "addr:city": "Karachi",
+        "addr:street": "Shahrah e Faisal",
+        "amenity": "fuel",
+        "brand": "شیل",
+        "brand:ar": "شل",
+        "brand:en": "Shell",
+        "brand:fa": "شل",
+        "brand:ur": "شیل",
+        "brand:wikidata": "Q154950",
+        "brand:wikipedia": "ur:رائل دٹچ شیل",
+        "brand:wikipedia:ar": "رويال داتش شل",
+        "brand:wikipedia:fa": "رویال داچ شل",
+        "brand:wikipedia:ur": "رائل دٹچ شیل",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "yes",
+        "name": "Shell Petrol Station - Drigh Road",
+        "phone": "+92 (21) 111-888-222"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.1221373,
+          24.885992
+        ]
+      },
+      "id": "node/4737583659"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4737593821",
+        "addr:city": "Karachi",
+        "addr:street": "Shahrah e Faisal",
+        "amenity": "fuel",
+        "name": "BYCO Petrol Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.1294196,
+          24.8869448
+        ]
+      },
+      "id": "node/4737593821"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4737610387",
+        "addr:city": "Karachi",
+        "addr:street": "Natha Khan",
+        "amenity": "fuel",
+        "brand": "طوطال",
+        "brand:ar": "طوطال",
+        "brand:en": "Total",
+        "brand:ur": "ٹوٹل",
+        "brand:wikidata": "Q154037",
+        "brand:wikipedia": "ar:طوطال",
+        "brand:wikipedia:ar": "طوطال",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "yes",
+        "name": "ٹوٹل",
+        "name:ar": "طوطال",
+        "name:en": "Total",
+        "name:ur": "ٹوٹل",
+        "operator": "ٹوٹل پارکو",
+        "operator:ar": "طوطال باركو",
+        "operator:en": "Total Parco",
+        "operator:ur": "ٹوٹل پارکو",
+        "operator:website": "https://www.totalparco.com.pk/",
+        "operator:wikidata": "Q85810269"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.142392,
+          24.8865708
+        ]
+      },
+      "id": "node/4737610387"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4737613745",
+        "addr:city": "Karachi",
+        "amenity": "fuel",
+        "brand": "شیل",
+        "brand:ar": "شل",
+        "brand:ur": "شیل",
+        "brand:wikidata": "Q154950",
+        "brand:wikipedia": "ur:رائل دٹچ شیل",
+        "brand:wikipedia:ar": "رويال داتش شل",
+        "brand:wikipedia:ur": "رائل دٹچ شیل",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "yes",
+        "name": "شیل",
+        "name:ar": "شل",
+        "name:en": "Shell",
+        "name:fa": "شل",
+        "name:pa": "ਸ਼ੈਲ",
+        "name:ur": "شیل",
+        "opening_hours": "24/7",
+        "phone": "+92 (21) 111-888-222"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.1450916,
+          24.8872326
+        ]
+      },
+      "id": "node/4737613745"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4737615080",
+        "addr:city": "Karachi",
+        "addr:place": "Faisal Cantonment",
+        "addr:street": "Shahrah e Faisal",
+        "amenity": "fuel",
+        "brand": "پاکستان اسٹیٹ آئل",
+        "brand:ar": "النفط الحكومية الباكستانية",
+        "brand:ks": "پاکستان اسٹیٹ آئل",
+        "brand:ur": "پاکستان اسٹیٹ آئل",
+        "brand:wikidata": "Q2741455",
+        "brand:wikipedia": "ur:پاکستان اسٹیٹ آئل",
+        "brand:wikipedia:ur": "پاکستان اسٹیٹ آئل",
+        "name": "پاکستان اسٹیٹ آئل",
+        "name:ar": "النفط الحكومية الباكستانية",
+        "name:en": "Pakistan State Oil",
+        "name:ks": "پاکستان اسٹیٹ آئل",
+        "name:pnb": "پاکستان سٹیٹ آئل",
+        "name:sd": "پاڪستان اسٽيٽ آئل",
+        "name:ur": "پاکستان اسٹیٹ آئل",
+        "short_name": "پی ایس او",
+        "short_name:ur": "پی ایس او"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.1459176,
+          24.8871224
+        ]
+      },
+      "id": "node/4737615080"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4737617031",
+        "addr:city": "Karachi",
+        "amenity": "fuel",
+        "brand": "پاکستان اسٹیٹ آئل",
+        "brand:ar": "النفط الحكومية الباكستانية",
+        "brand:ks": "پاکستان اسٹیٹ آئل",
+        "brand:ur": "پاکستان اسٹیٹ آئل",
+        "brand:wikidata": "Q2741455",
+        "brand:wikipedia": "ur:پاکستان اسٹیٹ آئل",
+        "brand:wikipedia:ur": "پاکستان اسٹیٹ آئل",
+        "fuel:octane_91": "yes",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "yes",
+        "name": "پاکستان اسٹیٹ آئل",
+        "name:ar": "النفط الحكومية الباكستانية",
+        "name:en": "Pakistan State Oil",
+        "name:ks": "پاکستان اسٹیٹ آئل",
+        "name:pnb": "پاکستان سٹیٹ آئل",
+        "name:sd": "پاڪستان اسٽيٽ آئل",
+        "name:ur": "پاکستان اسٹیٹ آئل",
+        "short_name": "پی ایس او",
+        "short_name:ur": "پی ایس او"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.1464556,
+          24.8866974
+        ]
+      },
+      "id": "node/4737617031"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4737631158",
+        "addr:city": "Karachi",
+        "addr:street": "Star Gate",
+        "amenity": "fuel",
+        "brand": "طوطال",
+        "brand:ar": "طوطال",
+        "brand:en": "Total",
+        "brand:ur": "ٹوٹل",
+        "brand:wikidata": "Q154037",
+        "brand:wikipedia": "ar:طوطال",
+        "brand:wikipedia:ar": "طوطال",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "yes",
+        "name": "ٹوٹل",
+        "name:ar": "طوطال",
+        "name:en": "Total",
+        "name:ur": "ٹوٹل",
+        "operator": "ٹوٹل پارکو",
+        "operator:ar": "طوطال باركو",
+        "operator:en": "Total Parco",
+        "operator:ur": "ٹوٹل پارکو",
+        "operator:website": "https://www.totalparco.com.pk/",
+        "operator:wikidata": "Q85810269"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.1547625,
+          24.8872181
+        ]
+      },
+      "id": "node/4737631158"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4737632303",
+        "addr:city": "Karachi",
+        "addr:street": "Shahrah e Faisal",
+        "amenity": "fuel",
+        "brand": "طوطال",
+        "brand:ar": "طوطال",
+        "brand:en": "Total",
+        "brand:ur": "ٹوٹل",
+        "brand:wikidata": "Q154037",
+        "brand:wikipedia": "ar:طوطال",
+        "brand:wikipedia:ar": "طوطال",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "yes",
+        "name": "ٹوٹل",
+        "name:ar": "طوطال",
+        "name:en": "Total",
+        "name:ur": "ٹوٹل",
+        "operator": "ٹوٹل پارکو",
+        "operator:ar": "طوطال باركو",
+        "operator:en": "Total Parco",
+        "operator:ur": "ٹوٹل پارکو",
+        "operator:website": "https://www.totalparco.com.pk/",
+        "operator:wikidata": "Q85810269"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.1561917,
+          24.8867309
+        ]
+      },
+      "id": "node/4737632303"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4767920531",
+        "addr:city": "Karachi",
+        "addr:country": "PK",
+        "addr:housenumber": "Block 1",
+        "addr:place": "Shah Faisal Block 1",
+        "addr:postcode": "74200",
+        "addr:province": "Sindh",
+        "addr:street": "Shah Faisal",
+        "addr:suburb": "Shah Faisal Town",
+        "amenity": "fast_food",
+        "name": "HOT SPOT BBQ & FAST FOOD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.1413184,
+          24.8853186
+        ]
+      },
+      "id": "node/4767920531"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4767920554",
+        "addr:city": "Karachi",
+        "addr:country": "PK",
+        "addr:housenumber": "Block 1",
+        "addr:place": "Shah Faisal Block 1",
+        "addr:postcode": "74200",
+        "addr:province": "Sindh",
+        "addr:street": "Shah Faisal",
+        "addr:suburb": "Shah Faisal Town",
+        "amenity": "fast_food",
+        "name": "Bihari Kabab Karahi And Fast Food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.1455418,
+          24.8836343
+        ]
+      },
+      "id": "node/4767920554"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4767920555",
+        "addr:city": "Karachi",
+        "addr:country": "PK",
+        "addr:housenumber": "Block 1",
+        "addr:place": "Shah Faisal Block 1",
+        "addr:postcode": "74200",
+        "addr:province": "Sindh",
+        "addr:street": "Shah Faisal",
+        "addr:suburb": "Shah Faisal Town",
+        "amenity": "fast_food",
+        "name": "Butt Sahib Fast Food, Bar.B.Q & Roll Point"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.1455208,
+          24.8833229
+        ]
+      },
+      "id": "node/4767920555"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4767920563",
+        "addr:city": "Karachi",
+        "addr:country": "PK",
+        "addr:housenumber": "Block 1",
+        "addr:place": "Shah Faisal Block 1",
+        "addr:postcode": "74200",
+        "addr:province": "Sindh",
+        "addr:street": "Shah Faisal",
+        "addr:suburb": "Shah Faisal Town",
+        "amenity": "fast_food",
+        "name": "Fazan Fast Food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.1455583,
+          24.8823565
+        ]
+      },
+      "id": "node/4767920563"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4773397432",
+        "addr:city": "Karachi",
+        "addr:street": "Burhani Service Road",
+        "amenity": "cafe",
+        "name": "Society Burger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.0840415,
+          24.8691799
+        ]
+      },
+      "id": "node/4773397432"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4788323011",
+        "addr:city": "Karachi",
+        "addr:street": "Rafique Shaheed Road",
+        "amenity": "fuel",
+        "name": "Sualeheen Service Station Total Petrol Pump"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.0493329,
+          24.8486716
+        ]
+      },
+      "id": "node/4788323011"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4788607076",
+        "addr:city": "Karachi",
+        "addr:street": "Saeed Hai Road",
+        "amenity": "fast_food",
+        "name": "Detox Fresh Juice"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.087854,
+          24.8744795
+        ]
+      },
+      "id": "node/4788607076"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4788607077",
+        "addr:city": "Karachi",
+        "addr:street": "Saeed Hai Road",
+        "amenity": "cafe",
+        "name": "Local Tea Shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.0878975,
+          24.8744999
+        ]
+      },
+      "id": "node/4788607077"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4788607079",
+        "addr:city": "Karachi",
+        "addr:street": "Saeed Hai Road",
+        "amenity": "cafe",
+        "name": "New Quetta Tea House"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.0880213,
+          24.8745845
+        ]
+      },
+      "id": "node/4788607079"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4790030939",
+        "addr:city": "Karachi",
+        "addr:street": "Fatima Jinnah Road",
+        "amenity": "fast_food",
+        "name": "The New York Pizza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.087466,
+          24.8748567
+        ]
+      },
+      "id": "node/4790030939"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4790030952",
+        "addr:city": "Karachi",
+        "addr:street": "Fatima Jinnah Road",
+        "amenity": "cafe",
+        "name": "TALIB TEA CAFE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.0875215,
+          24.8754241
+        ]
+      },
+      "id": "node/4790030952"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4790030964",
+        "addr:city": "Karachi",
+        "addr:street": "Fatima Jinnah Road",
+        "amenity": "cafe",
+        "name": "Kafe Kofa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.0888792,
+          24.8752474
+        ]
+      },
+      "id": "node/4790030964"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4790030972",
+        "addr:city": "Karachi",
+        "addr:street": "Fatima Jinnah Road",
+        "amenity": "cafe",
+        "name": "Chai Chalegi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.0879517,
+          24.875535
+        ]
+      },
+      "id": "node/4790030972"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4790030975",
+        "addr:city": "Karachi",
+        "addr:street": "Fatima Jinnah Road",
+        "amenity": "fast_food",
+        "name": "Al Hatim Tai Shawarma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.0876496,
+          24.8759028
+        ]
+      },
+      "id": "node/4790030975"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4790030982",
+        "addr:city": "Karachi",
+        "addr:street": "Tipu Sultan NE",
+        "amenity": "cafe",
+        "name": "Pane & Amore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.0872144,
+          24.8796306
+        ]
+      },
+      "id": "node/4790030982"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4790118544",
+        "addr:city": "Karachi",
+        "addr:street": "Tipu Sultan Road",
+        "amenity": "cafe",
+        "name": "Donuts Gonuts"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.0848579,
+          24.8752047
+        ]
+      },
+      "id": "node/4790118544"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4791990010",
+        "addr:city": "Karachi",
+        "addr:street": "Shahrah e Faisal",
+        "amenity": "fuel",
+        "fuel:diesel": "yes",
+        "fuel:octane_98": "yes",
+        "name": "Pakistan State Oil - PSO",
+        "short_name": "PSO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.0838165,
+          24.8671248
+        ]
+      },
+      "id": "node/4791990010"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4950442365",
+        "addr:city": "Karachi",
+        "addr:street": "Zaibunnisa Street",
+        "amenity": "fast_food",
+        "cuisine": "bagel",
+        "internet_access": "wlan",
+        "name": "Subway-Atrium Mall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.0297643,
+          24.8558136
+        ]
+      },
+      "id": "node/4950442365"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5047984811",
+        "addr:city": "Karachi",
+        "addr:country": "PK",
+        "addr:full": "Delhi Mercantile Co-operative Housing Society",
+        "addr:housenumber": "8A",
+        "addr:state": "Sindh",
+        "addr:street": "Shahrah-e-Faisal Service Lane",
+        "amenity": "fast_food",
+        "cuisine": "chinese",
+        "name": "Ming's Patio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.0768654,
+          24.8660158
+        ]
+      },
+      "id": "node/5047984811"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5047984812",
+        "addr:city": "Karachi",
+        "addr:country": "PK",
+        "addr:full": "Delhi Mercantile Co-operative Housing Society",
+        "addr:housenumber": "8B",
+        "addr:state": "Sindh",
+        "addr:street": "Shahrah-e-Faisal Service Lane",
+        "amenity": "fast_food",
+        "name": "Fryitt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.0767688,
+          24.8656922
+        ]
+      },
+      "id": "node/5047984812"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5119792993",
+        "addr:city": "Karachi",
+        "addr:street": "Zaibunnisa Street",
+        "amenity": "fast_food",
+        "brand": "کینٹکی فرائیڈ چکن",
+        "brand:ar": "دجاج كنتاكي",
+        "brand:en": "KFC",
+        "brand:fa": "کی‌اف‌سی",
+        "brand:ur": "کینٹکی فرائیڈ چکن",
+        "brand:wikipedia": "ur:کینٹکی فرائیڈ چکن",
+        "brand:wikipedia:ar": "دجاج كنتاكي",
+        "brand:wikipedia:fa": "کی‌اف‌سی",
+        "brand:wikipedia:ur": "کینٹکی فرائیڈ چکن",
+        "cuisine": "chicken",
+        "internet_access": "no",
+        "internet_access:fee": "no",
+        "name": "کینٹکی فرائیڈ چکن",
+        "name:ar": "دجاج كنتاكي",
+        "name:en": "KFC",
+        "name:fa": "کی‌اف‌سی",
+        "name:ur": "کینٹکی فرائیڈ چکن",
+        "phone": "(021) 111 532 532",
+        "smoking": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.0297527,
+          24.8558543
+        ]
+      },
+      "id": "node/5119792993"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5119792996",
+        "addr:city": "Karachi",
+        "addr:street": "Zaibunnisa Street",
+        "amenity": "fast_food",
+        "brand": "مکڈونلڈز",
+        "brand:ar": "مكدونالدز",
+        "brand:de": "McDonald’s",
+        "brand:en": "McDonald's",
+        "brand:fa": "مکدونالدز",
+        "brand:pnb": "میکڈونلڈز",
+        "brand:ps": "مکډونالډز",
+        "brand:ur": "مکڈونلڈز",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "ur:مکڈونلڈز",
+        "brand:wikipedia:ar": "مكدونالدز",
+        "brand:wikipedia:fa": "مکدونالدز",
+        "brand:wikipedia:pnb": "میکڈونلڈز",
+        "brand:wikipedia:ps": "مکډونالډز",
+        "brand:wikipedia:ur": "مکڈونلڈز",
+        "cuisine": "burger",
+        "delivery": "yes",
+        "drive_through": "yes",
+        "name": "مکڈونلڈز",
+        "name:ar": "مكدونالدز",
+        "name:de": "McDonald’s",
+        "name:en": "McDonald's",
+        "name:fa": "مکدونالدز",
+        "name:pnb": "میکڈونلڈز",
+        "name:ps": "مکډونالډز",
+        "name:ur": "مکڈونلڈز",
+        "phone": "021 111-244-622",
+        "smoking": "no",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.0297178,
+          24.8559582
+        ]
+      },
+      "id": "node/5119792996"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5119945150",
+        "addr:city": "Saddar Town",
+        "addr:street": "Zaibunnisa Street",
+        "amenity": "cafe",
+        "name": "Cafe Rio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.0296447,
+          24.8554315
+        ]
+      },
+      "id": "node/5119945150"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5119945160",
+        "addr:city": "Karachi",
+        "addr:street": "Sarwar Shaheed Rd",
+        "amenity": "cafe",
+        "name": "Arabian Lounge - Atrium Mall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.0300907,
+          24.8562143
+        ]
+      },
+      "id": "node/5119945160"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5119945162",
+        "addr:city": "Karachi",
+        "addr:street": "Sarwar Shaheed Rd",
+        "amenity": "fast_food",
+        "name": "HB Fast Food-Atrium Mall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.030278,
+          24.8562604
+        ]
+      },
+      "id": "node/5119945162"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5121975352",
+        "addr:city": "Karachi",
+        "addr:street": "Mochi Gali",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "name": "Babo Burger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.0284667,
+          24.8604263
+        ]
+      },
+      "id": "node/5121975352"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5121975361",
+        "addr:city": "Karachi",
+        "addr:street": "Church Street",
+        "amenity": "fast_food",
+        "name": "Chowpatty Chaat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.0287188,
+          24.8604506
+        ]
+      },
+      "id": "node/5121975361"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5121975362",
+        "addr:city": "Karachi",
+        "addr:street": "Raja Ghazanfar Ali Road",
+        "amenity": "cafe",
+        "name": "New Quetta Bolan cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.0288006,
+          24.8603316
+        ]
+      },
+      "id": "node/5121975362"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5122255314",
+        "addr:city": "Karachi",
+        "addr:street": "Abdullah Haroon Road",
+        "amenity": "cafe",
+        "name": "Cafe Jabees"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.02721,
+          24.8584942
+        ]
+      },
+      "id": "node/5122255314"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5122919867",
+        "addr:city": "Karachi",
+        "addr:street": "Raja Ghazanfar Ali Road",
+        "amenity": "fast_food",
+        "cuisine": "burger;sandwich",
+        "name": "KBC - Saddar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.0305704,
+          24.8568166
+        ]
+      },
+      "id": "node/5122919867"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5133026873",
+        "addr:city": "Karachi",
+        "addr:street": "Shahrah e Faisal",
+        "amenity": "fuel",
+        "name": "Kakakhail CNG Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.1587666,
+          24.8866811
+        ]
+      },
+      "id": "node/5133026873"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5135455200",
+        "addr:city": "Karachi",
+        "addr:street": "Rafique Shaheed Road",
+        "amenity": "fuel",
+        "brand": "شیل",
+        "brand:ar": "شل",
+        "brand:ur": "شیل",
+        "brand:wikidata": "Q154950",
+        "brand:wikipedia": "ur:رائل دٹچ شیل",
+        "brand:wikipedia:ar": "رويال داتش شل",
+        "brand:wikipedia:ur": "رائل دٹچ شیل",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "yes",
+        "name": "شیل",
+        "name:ar": "شل",
+        "name:en": "Shell",
+        "name:fa": "شل",
+        "name:pa": "ਸ਼ੈਲ",
+        "name:ur": "شیل",
+        "phone": "+92 (21) 111-888-222"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.0338606,
+          24.8568716
+        ]
+      },
+      "id": "node/5135455200"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5136993216",
+        "amenity": "fast_food",
+        "brand": "کینٹکی فرائیڈ چکن",
+        "brand:ar": "دجاج كنتاكي",
+        "brand:en": "KFC",
+        "brand:fa": "کی‌اف‌سی",
+        "brand:ur": "کینٹکی فرائیڈ چکن",
+        "brand:wikipedia": "ur:کینٹکی فرائیڈ چکن",
+        "brand:wikipedia:ar": "دجاج كنتاكي",
+        "brand:wikipedia:fa": "کی‌اف‌سی",
+        "brand:wikipedia:ur": "کینٹکی فرائیڈ چکن",
+        "cuisine": "chicken",
+        "internet_access": "no",
+        "internet_access:fee": "no",
+        "name": "کینٹکی فرائیڈ چکن",
+        "name:ar": "دجاج كنتاكي",
+        "name:en": "KFC",
+        "name:fa": "کی‌اف‌سی",
+        "name:ur": "کینٹکی فرائیڈ چکن",
+        "phone": "(021) 111 532 532",
+        "smoking": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.0298024,
+          24.8559201
+        ]
+      },
+      "id": "node/5136993216"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5144889262",
+        "addr:city": "Karachi",
+        "addr:street": "Raja Ghazanfar Ali Road",
+        "amenity": "fast_food",
+        "name": "Krispy Broast Chicken"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.0304726,
+          24.8571411
+        ]
+      },
+      "id": "node/5144889262"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5145227034",
+        "addr:city": "Karachi",
+        "addr:street": "Burhani Road",
+        "amenity": "fast_food",
+        "name": "Sindhi Burger Wala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.0813069,
+          24.8674946
+        ]
+      },
+      "id": "node/5145227034"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5145310728",
+        "addr:city": "Karachi",
+        "addr:street": "Karachi Contonment",
+        "amenity": "fuel",
+        "name": "پٹرول پمپ",
+        "name:en": "Petrol Pump",
+        "name:ur": "پٹرول پمپ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.0390337,
+          24.8545037
+        ]
+      },
+      "id": "node/5145310728"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5158976082",
+        "addr:city": "Karachi",
+        "addr:street": "Wellington Street",
+        "amenity": "cafe",
+        "name": "Mama Soup - Saddar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.0327927,
+          24.8593258
+        ]
+      },
+      "id": "node/5158976082"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5161116834",
+        "addr:city": "Karachi",
+        "addr:street": "NHS Karsaz Road",
+        "amenity": "fast_food",
+        "cuisine": "pizza",
+        "delivery": "yes",
+        "name": "Pizza 2 Go - Karsaz",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.0976996,
+          24.8818174
+        ]
+      },
+      "id": "node/5161116834"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5285985461",
+        "addr:city": "Karachi",
+        "addr:country": "PK",
+        "addr:housenumber": "Block 1",
+        "addr:place": "Shah Faisal Block 1",
+        "addr:postcode": "74200",
+        "addr:province": "Sindh",
+        "addr:street": "Shah Faisal",
+        "addr:suburb": "Shah Faisal Town",
+        "amenity": "fuel",
+        "name": "Quick Service Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.1453716,
+          24.8818224
+        ]
+      },
+      "id": "node/5285985461"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6820952685",
+        "amenity": "cafe",
+        "name": "Taj Tea Point"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.1708517,
+          24.8844773
+        ]
+      },
+      "id": "node/6820952685"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6879904291",
+        "amenity": "cafe",
+        "name": "Cafe Quetta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.0308505,
+          24.8581086
+        ]
+      },
+      "id": "node/6879904291"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7074421634",
+        "addr:city": "كراتشي",
+        "amenity": "fuel",
+        "brand": "طوطال",
+        "brand:ar": "طوطال",
+        "brand:en": "Total",
+        "brand:ur": "طوطال",
+        "brand:wikidata": "Q154037",
+        "brand:wikipedia": "ar:توتال",
+        "name": "طوطال",
+        "name:ar": "طوطال",
+        "name:en": "Total",
+        "name:ur": "طوطال"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.0315274,
+          24.856542
+        ]
+      },
+      "id": "node/7074421634"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8058135823",
+        "amenity": "cafe",
+        "cuisine": "Dhaba",
+        "name": "nizam foods"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.0599111,
+          24.8592881
+        ]
+      },
+      "id": "node/8058135823"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8058135824",
+        "amenity": "cafe",
+        "cuisine": "Dhaba",
+        "name": "new quetta master hotel ( Dhaba )"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.062425,
+          24.8598613
+        ]
+      },
+      "id": "node/8058135824"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8058135826",
+        "amenity": "fast_food",
+        "brand": "کینٹکی فرائیڈ چکن",
+        "brand:ar": "دجاج كنتاكي",
+        "brand:en": "KFC",
+        "brand:fa": "کی‌اف‌سی",
+        "brand:ur": "کینٹکی فرائیڈ چکن",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "ur:کینٹکی فرائیڈ چکن",
+        "brand:wikipedia:ar": "دجاج كنتاكي",
+        "brand:wikipedia:fa": "کی‌اف‌سی",
+        "brand:wikipedia:ur": "کینٹکی فرائیڈ چکن",
+        "cuisine": "chicken",
+        "name": "کینٹکی فرائیڈ چکن",
+        "name:ar": "دجاج كنتاكي",
+        "name:en": "KFC",
+        "name:fa": "کی‌اف‌سی",
+        "name:ur": "کینٹکی فرائیڈ چکن",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.0649785,
+          24.8604016
+        ]
+      },
+      "id": "node/8058135826"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8058344802",
+        "amenity": "cafe",
+        "name": "Quetta Al Makkah Hotel ( Dhaba )"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.0581437,
+          24.8683265
+        ]
+      },
+      "id": "node/8058344802"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8058344803",
+        "amenity": "cafe",
+        "name": "Harmain Sharif Tea ( Dhaba )"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.0571651,
+          24.866678
+        ]
+      },
+      "id": "node/8058344803"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8428197388",
+        "amenity": "fuel",
+        "brand": "Hascol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.1034323,
+          24.8776575
+        ]
+      },
+      "id": "node/8428197388"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8428197398",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.1091793,
+          24.8807651
+        ]
+      },
+      "id": "node/8428197398"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10752174434",
+        "amenity": "fast_food",
+        "check_date": "2023-03-22",
+        "cuisine": "pizza",
+        "delivery": "yes",
+        "name": "Pizza Point",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.0687109,
+          24.8613554
+        ]
+      },
+      "id": "node/10752174434"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10752174437",
+        "amenity": "fast_food",
+        "check_date": "2023-03-22",
+        "cuisine": "burger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.0696316,
+          24.859161
+        ]
+      },
+      "id": "node/10752174437"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12032841411",
+        "addr:city": "Karachi",
+        "addr:housenumber": "Habitt",
+        "addr:street": "Tipu Sultan Road",
+        "air_conditioning": "yes",
+        "amenity": "cafe",
+        "changing_table": "no",
+        "cuisine": "chai;pakistani",
+        "drive_through": "no",
+        "min_age": "0",
+        "name": "Chai Chatt",
+        "outdoor_seating": "yes",
+        "toilets": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.0774935,
+          24.8662052
+        ]
+      },
+      "id": "node/12032841411"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12124813411",
+        "addr:city": "Karachi",
+        "addr:housenumber": "1168",
+        "addr:street": "Shah Faisal Colony 1 Shah Faisal Colony,",
+        "amenity": "cafe",
+        "name": "Cafe Khuwaja Ghareeb Nawaz",
+        "phone": "03132028200"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.1398721,
+          24.8788182
+        ]
+      },
+      "id": "node/12124813411"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12128126661",
+        "addr:housenumber": "V5J2+VMP",
+        "addr:street": ", Block 2 Shah Faisal Colony 2 Shah Faisal Colony",
+        "amenity": "fast_food",
+        "name": "Hassan's Food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.1516193,
+          24.8822177
+        ]
+      },
+      "id": "node/12128126661"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12128129110",
+        "addr:city": "Karachi",
+        "addr:housenumber": "V5J2+RMV,",
+        "addr:street": "Block 2 Shah Faisal Colony 3 Shah Faisal Colony",
+        "amenity": "cafe",
+        "name": "Al Muslim Star Hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.1516152,
+          24.8821787
+        ]
+      },
+      "id": "node/12128129110"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12131375335",
+        "addr:city": "Karachi",
+        "addr:housenumber": "V5M3+R7R",
+        "addr:street": ", Peoples Colony Shah Faisal Shah Faisal Colony, Karachi, n",
+        "amenity": "fuel",
+        "name": "New Karachi Auto Oil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.153258,
+          24.8846512
+        ]
+      },
+      "id": "node/12131375335"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12131950441",
+        "addr:street": "V5M4+V45, Peoples Colony Shah Faisal Shah Faisal Colony, Karachi",
+        "amenity": "cafe",
+        "name": "Quetta Gull Khan Hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.1554734,
+          24.8846402
+        ]
+      },
+      "id": "node/12131950441"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12131989475",
+        "addr:street": "V5M4+RQG, Peoples Colony Shah Faisal Shah Faisal Colony, Karachi,",
+        "amenity": "fast_food",
+        "name": "Cheesy Bites"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.1566725,
+          24.8845868
+        ]
+      },
+      "id": "node/12131989475"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12133616702",
+        "addr:city": "Karachi",
+        "addr:street": "V5H6+XFM, Green Town Shah Faisal Colony, Karachi,",
+        "amenity": "fast_food",
+        "name": "Mohsan Food Point"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.1615009,
+          24.8799425
+        ]
+      },
+      "id": "node/12133616702"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12133820560",
+        "addr:city": "Karachi",
+        "addr:street": "MC 620, Green Town,",
+        "amenity": "fast_food",
+        "name": "Rohaan Foods"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.1610088,
+          24.8800893
+        ]
+      },
+      "id": "node/12133820560"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12133894994",
+        "addr:city": "Karachi",
+        "addr:street": "V5J6+336, Green Town Pather Rd, Green Town Shah Faisal Colony,",
+        "amenity": "fast_food",
+        "name": "Lahori Chaska Fast Food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.1601353,
+          24.8801297
+        ]
+      },
+      "id": "node/12133894994"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12133970206",
+        "addr:city": "Karachi",
+        "addr:street": "FTC Building, Main Shahrah-e-Faisal Rd,",
+        "amenity": "cafe",
+        "name": "Bake & Sip"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.0527512,
+          24.8585966
+        ]
+      },
+      "id": "node/12133970206"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12134179399",
+        "addr:street": "2, Block 2 Shah Faisal Colony 2 Shah Faisal Colony, Karachi,",
+        "amenity": "fast_food",
+        "cuisine": "fish_and_chips",
+        "name": "Yasir Fish Fry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.1458578,
+          24.8825623
+        ]
+      },
+      "id": "node/12134179399"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12134197857",
+        "addr:city": "karachi",
+        "addr:street": "CSD, Main Korangi Rd, Karachi Cantonment",
+        "amenity": "fast_food",
+        "cuisine": "juice",
+        "name": "Blend Bar",
+        "phone": "03453333889"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.0518893,
+          24.8532803
+        ]
+      },
+      "id": "node/12134197857"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12134222155",
+        "addr:street": "V4JV+RXV, Korangi Shah Faisal Rd, Block 1 Shah Faisal Colony 1 Shah Faisal Colony,",
+        "amenity": "fast_food",
+        "name": "B2Burger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.1449985,
+          24.8822195
+        ]
+      },
+      "id": "node/12134222155"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12134223044",
+        "addr:city": "karachi",
+        "addr:street": "CSD Food Street, Main Korangi Rd, next to Gora Qabrustan, Karachi",
+        "amenity": "cafe",
+        "name": "Turkish Mud Coffee",
+        "phone": "03092312142"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.0521356,
+          24.8527091
+        ]
+      },
+      "id": "node/12134223044"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12134252549",
+        "addr:city": "karachi",
+        "addr:street": "CSD, Main Korangi Rd, Karachi Cantonment Karachi,",
+        "amenity": "cafe",
+        "name": "Cafe Yana",
+        "phone": "02135163405"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.0522375,
+          24.8530602
+        ]
+      },
+      "id": "node/12134252549"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12134262388",
+        "addr:city": "Karachi",
+        "addr:housenumber": "Plot 1، V4JW+V3C، 91 2",
+        "addr:street": "Number Chowrangi, Block 1 Shah Faisal Colony 1 Shah Faisal Colony",
+        "amenity": "fast_food",
+        "name": "Karachi Fast Food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.145216,
+          24.8821834
+        ]
+      },
+      "id": "node/12134262388"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12137338135",
+        "addr:city": "Karachi",
+        "addr:housenumber": "1/154, Street Number",
+        "addr:street": "1, Block 1 Shah Faisal Colony 1 Shah Faisal Colony, Karach",
+        "amenity": "fast_food",
+        "name": "Burger Squad",
+        "phone": "03304082761"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.1451664,
+          24.8815973
+        ]
+      },
+      "id": "node/12137338135"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12137743618",
+        "addr:city": "Karachi",
+        "addr:street": "Main Tipu Sultan Rd, Karachi Memon Co-operative Housing Society Karachi Memon Society",
+        "amenity": "cafe",
+        "name": "Espresso Tipu Sultan",
+        "phone": "03482099235",
+        "website": "http://www.espresso.com.pk/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.0776014,
+          24.8677414
+        ]
+      },
+      "id": "node/12137743618"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12137992775",
+        "addr:city": "Karachi",
+        "addr:street": "V4JM+5C2, Shahra-e-Kazmain, Sadat Colony Sadaat Colony Shah Faisal Colony",
+        "amenity": "fast_food",
+        "name": "BABA FAST FOOD."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.1335335,
+          24.8803956
+        ]
+      },
+      "id": "node/12137992775"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12138012946",
+        "addr:city": "Karachi",
+        "addr:street": "V4JM+4HJ, Shahra-e-Kazmain, Natha Khan Goth Sadaat Colony Shah Faisal Colony,",
+        "amenity": "fast_food",
+        "name": "KFP (Kazmain Food Point)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.1338421,
+          24.8803078
+        ]
+      },
+      "id": "node/12138012946"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12144481600",
+        "addr:city": "Karachi",
+        "addr:street": "157C Mehmoodabad Number 2, Mehmoodabad",
+        "amenity": "fast_food",
+        "name": "Ghousia Bombay Biryani",
+        "phone": "06230247089"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.0724491,
+          24.8534597
+        ]
+      },
+      "id": "node/12144481600"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12144485990",
+        "addr:city": "Karachi",
+        "addr:street": "233 Mehmoodabad Number 2, near Baig Sons Store, Mehmoodabad",
+        "amenity": "fast_food",
+        "name": "Foodist",
+        "phone": "03325035059",
+        "website": "https://m.facebook.com/foodistpk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.0723445,
+          24.8532504
+        ]
+      },
+      "id": "node/12144485990"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12144659977",
+        "addr:city": "Karachi",
+        "addr:street": "V33F+C25, Mehmoodabad Number 2, Mehmoodabad",
+        "amenity": "fast_food",
+        "name": "Fareed Food Station",
+        "phone": "03405663357"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.0725993,
+          24.8535327
+        ]
+      },
+      "id": "node/12144659977"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12144739752",
+        "addr:city": "Karachi",
+        "addr:street": "80d Gali Number 1, MEHMOODABAD 3 Mehmoodabad,",
+        "amenity": "cafe",
+        "name": "Chai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.0739898,
+          24.8538272
+        ]
+      },
+      "id": "node/12144739752"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12183791152",
+        "addr:city": "Karachi",
+        "addr:street": "Natha Khan Bridge, Shahrah-e-Faisal Rd, Shah Faisal Colony 1 Shah Faisal Colony, c",
+        "amenity": "fuel",
+        "name": "Total PARCO Petrol Pump"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.143515,
+          24.8866968
+        ]
+      },
+      "id": "node/12183791152"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12184431780",
+        "addr:city": "Karachi",
+        "addr:street": "V4MP+PHX, Natha Khan Goth Shah Faisal Colony,",
+        "amenity": "fast_food",
+        "name": "ideal Burger Shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.1364894,
+          24.8843572
+        ]
+      },
+      "id": "node/12184431780"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12184438024",
+        "addr:city": "Karachi",
+        "addr:street": "V4MP+MM8, Mardan Chowk Rd, Natha Khan Goth Shah Faisal Colony,",
+        "amenity": "fast_food",
+        "cuisine": "juice",
+        "name": "Siddiqia juice center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.136796,
+          24.8842087
+        ]
+      },
+      "id": "node/12184438024"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12237779966",
+        "addr:city": "Karachi",
+        "addr:street": "V26J+FJG, Dr Syedna Mohammed Burhanuddin Rd, Saddar",
+        "amenity": "cafe",
+        "name": "Mohammedi Nagori Milk Shop/ Kulfi Shop & Roll, Burger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.0315833,
+          24.8611347
+        ]
+      },
+      "id": "node/12237779966"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12237787774",
+        "addr:city": "Karachi",
+        "addr:street": "Cutchi Memon St. No. 3, Saddar",
+        "amenity": "fast_food",
+        "name": "Hashim Tukra Bun Kabab"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.0316892,
+          24.861041
+        ]
+      },
+      "id": "node/12237787774"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12237808051",
+        "addr:city": "Karachi",
+        "addr:street": "V26J+8QG, Saddar",
+        "amenity": "fast_food",
+        "name": "Crispo Fast Food & Pizza Point"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.0319293,
+          24.860867
+        ]
+      },
+      "id": "node/12237808051"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12237822963",
+        "addr:city": "Karachi",
+        "addr:street": "Addjacent HBL BAnk MAinsfield Street, Dr Daud Pota Rd, saddar-",
+        "amenity": "fast_food",
+        "name": "Ek Number Fries & More"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.0319038,
+          24.8606036
+        ]
+      },
+      "id": "node/12237822963"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12238206139",
+        "addr:city": "Karachi",
+        "addr:street": "V25M+P27, Saddar",
+        "amenity": "fast_food",
+        "name": "Pizza Day Inn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.0325358,
+          24.8593444
+        ]
+      },
+      "id": "node/12238206139"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12241505950",
+        "addr:city": "Karachi",
+        "addr:street": "Dr Daud Pota Rd, Saddar",
+        "amenity": "fast_food",
+        "name": "Ezzy Nimco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.0296689,
+          24.8607947
+        ]
+      },
+      "id": "node/12241505950"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12246132339",
+        "addr:city": "Karachi",
+        "addr:street": "SB-18 Shah Jhangir Kotahri Building, Raja Ghazanfar Ali Rd,",
+        "amenity": "fast_food",
+        "name": "Jan's Food - BIRYANI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.0290177,
+          24.8592939
+        ]
+      },
+      "id": "node/12246132339"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12250750174",
+        "addr:city": "Karachi",
+        "addr:street": "33 Outer, Navy Heights, near Kala Pul, main Main Korangi Rd,",
+        "amenity": "cafe",
+        "name": "Cafe Heights"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.0503739,
+          24.8492398
+        ]
+      },
+      "id": "node/12250750174"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12266005690",
+        "addr:city": "کراچی",
+        "addr:street": "V39H+WGR, Tipu Sultan Rd, Karachi Memon Co-operative Housing Society Jinnah Housing Society P.E.C.H.S.,",
+        "amenity": "cafe",
+        "name": "Springs Cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.0786604,
+          24.8697574
+        ]
+      },
+      "id": "node/12266005690"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12266026234",
+        "addr:city": "Karachi",
+        "addr:street": "Shop 3, Plot# 42/7&8, Sumiya Elite, MCHS, Shaheed-e-Millat Rd, Karachi Memon Co-operative Housing Society Jinnah Housing Society",
+        "amenity": "cafe",
+        "name": "Melbrew - Tipu Sultan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.0797433,
+          24.8706429
+        ]
+      },
+      "id": "node/12266026234"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12553492255",
+        "addr:city": "Karachi",
+        "addr:street": "Tipu Sultan Road",
+        "amenity": "cafe",
+        "branch": "Tipu Sultan",
+        "brand": "Costa",
+        "brand:wikidata": "Q608845",
+        "cuisine": "coffee_shop",
+        "name": "Costa",
+        "opening_hours": "24/7",
+        "outdoor_seating": "no",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.0777978,
+          24.8660222
+        ]
+      },
+      "id": "node/12553492255"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13355412275",
+        "addr:city": "Karachi",
+        "addr:housenumber": "Plot-4",
+        "addr:street": "Shahrah-e-Faisal Service Lane",
+        "air_conditioning": "no",
+        "amenity": "cafe",
+        "branch": "KMCHS",
+        "changing_table": "no",
+        "delivery": "yes",
+        "internet_access": "no",
+        "mobile": "+923332490652",
+        "name": "Chai Wala Cafe",
+        "opening_hours": "Su-Th 17:00-02:30, Fr-Sa 17:00-03:00",
+        "outdoor_seating": "yes",
+        "reservation": "no",
+        "smoking": "separated",
+        "toilets:wheelchair": "no",
+        "website": "http://www.chaiwala.pk/",
+        "website:menu": "http://www.chaiwala.pk/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.0759673,
+          24.8649149
+        ]
+      },
+      "id": "node/13355412275"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13907486787",
+        "amenity": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.0791416,
+          24.8704475
+        ]
+      },
+      "id": "node/13907486787"
+    }
+  ]
+}

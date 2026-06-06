@@ -1,0 +1,189 @@
+[
+  {
+    "name": "Chillis Fast Food",
+    "amenity": "fast_food",
+    "keywords": [
+      "Chillis Fastfood",
+      "Chilis Fast Food",
+      "Chillis",
+      "Chilis",
+      "fast food",
+      "fastfood",
+      "chilli fast food",
+      "chili fast food"
+    ],
+    "latitude": 24.8746202,
+    "longitude": 67.0880587
+  },
+  {
+    "name": "Kaybees Fast Food",
+    "amenity": "fast_food",
+    "keywords": [
+      "Kaybees",
+      "Kaybees restaurant",
+      "Kaybees burgers",
+      "Kaybees pizza",
+      "K Bees",
+      "K-Bees",
+      "Keybees",
+      "Fast Food Kaybees",
+      "Kaybee's"
+    ],
+    "latitude": 24.8753422,
+    "longitude": 67.0878142
+  },
+  {
+    "name": "Shell",
+    "amenity": "fuel",
+    "keywords": [
+      "Shell",
+      "شیل",
+      "Shell Petrol Pump",
+      "Shell Pump",
+      "Shell Station",
+      "Shel",
+      "Shiel",
+      "شل",
+      "پٹرول پمپ",
+      "Petrol Pump"
+    ],
+    "latitude": 24.865712,
+    "longitude": 67.0778031
+  },
+  {
+    "name": "Pakistan State Oil",
+    "amenity": "fuel",
+    "keywords": [
+      "Pakistan State Oil",
+      "PSO",
+      "PSO pump",
+      "PSO petrol pump",
+      "PSO petrol station",
+      "Pakistan State Oil pump",
+      "Pakistan State Oil petrol pump",
+      "Pakistan State Oil petrol station",
+      "پاکستان اسٹیٹ آئل",
+      "Pakistan State Ail",
+      "Pakistan State Oyel",
+      "Pakistan Stae Oil",
+      "Pakistan State OIl"
+    ],
+    "latitude": 24.8765375,
+    "longitude": 67.0844129
+  },
+  {
+    "name": "Dunkin' Donuts",
+    "amenity": "fast_food",
+    "keywords": [
+      "Dunkin Donuts",
+      "Duncan Donuts",
+      "Dunkin",
+      "Donuts",
+      "Dunkun Donats",
+      "Duncan Donats",
+      "Dunkin Donut",
+      "ڈنکن ڈونٹس"
+    ],
+    "latitude": 24.8655472,
+    "longitude": 67.0775606
+  },
+  {
+    "name": "Total Parco",
+    "amenity": "fuel",
+    "keywords": [
+      "Total",
+      "Total petrol pump",
+      "Total gas station",
+      "Total fuel station",
+      "ٹوٹل",
+      "totul",
+      "totall",
+      "petrol pump",
+      "fuel station",
+      "gas station"
+    ],
+    "latitude": 24.8530825,
+    "longitude": 67.022541
+  },
+  {
+    "name": "Attock Petrol Pump",
+    "amenity": "fuel",
+    "keywords": [
+      "attock petrol pump"
+    ],
+    "latitude": 24.8870175,
+    "longitude": 67.1439626
+  },
+  {
+    "name": "Caltex Pump",
+    "amenity": "fuel",
+    "keywords": [
+      "caltex pump"
+    ],
+    "latitude": 24.8580962,
+    "longitude": 67.0489059
+  },
+  {
+    "name": "پاکستان اسٹیٹ آئل",
+    "amenity": "fuel",
+    "keywords": [
+      "پاکستان اسٹیٹ آئل"
+    ],
+    "latitude": 24.857058,
+    "longitude": 67.0433194
+  },
+  {
+    "name": "پاکستان اسٹیٹ آئل",
+    "amenity": "fuel",
+    "keywords": [
+      "پاکستان اسٹیٹ آئل"
+    ],
+    "latitude": 24.8657451,
+    "longitude": 67.0802111
+  },
+  {
+    "name": "شیل",
+    "amenity": "fuel",
+    "keywords": [
+      "شیل"
+    ],
+    "latitude": 24.8805185,
+    "longitude": 67.1088418
+  },
+  {
+    "name": "Bakri Petrol Station",
+    "amenity": "fuel",
+    "keywords": [
+      "bakri petrol station"
+    ],
+    "latitude": 24.8807124,
+    "longitude": 67.1102746
+  },
+  {
+    "name": "ٹوٹل",
+    "amenity": "fuel",
+    "keywords": [
+      "ٹوٹل"
+    ],
+    "latitude": 24.8809825,
+    "longitude": 67.1107039
+  },
+  {
+    "name": "پاکستان اسٹیٹ آئل",
+    "amenity": "fuel",
+    "keywords": [
+      "پاکستان اسٹیٹ آئل"
+    ],
+    "latitude": 24.8822543,
+    "longitude": 67.1129113
+  },
+  {
+    "name": "Hascol 1 Petrol Station",
+    "amenity": "fuel",
+    "keywords": [
+      "hascol 1 petrol station"
+    ],
+    "latitude": 24.8828314,
+    "longitude": 67.1140279
+  }
+]

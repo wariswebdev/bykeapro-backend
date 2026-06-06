@@ -1,0 +1,25 @@
+# Dependency directories (avoids pushing thousands of npm files)
+node_modules/
+jspm_packages/
+
+# Local environment variables (CRITICAL: Keeps your Gemini and Supabase keys hidden)
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Debug logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Optional: Ignore your local raw/clean data json files if they are huge 
+# (Keep them commented out with # if you want to push them to GitHub so your teammate can see them)
+# karachi_raw.json
+# karachi_clean.json
