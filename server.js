@@ -39,3 +39,13 @@ app.get('/api/search', async (req, res) => {
 app.listen(PORT, () => {
     console.log(`🚀 Bykea Core Engine running on port ${PORT}`);
 });
+
+
+if (process.env.NODE_ENV !== 'production') {
+    app.listen(PORT, () => {
+        console.log(`🚀 Bykea Core Engine running locally on port ${PORT}`);
+    });
+}
+
+// Export for Vercel Serverless environment
+module.exports = app;
